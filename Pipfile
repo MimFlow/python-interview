@@ -6,10 +6,8 @@ name = "pypi"
 [packages]
 
 [dev-packages]
-django-debug-toolbar = "*"
 ruff = "*"
 pre-commit = "*"
-django-silk = "*"
 snakeviz = "*"
 pytest = "*"
 pytest-django = "*"

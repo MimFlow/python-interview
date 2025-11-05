@@ -1,0 +1,11 @@
+---
+extends: default
+
+rules:
+  line-length:
+    max: 121
+    allow-non-breakable-words: true
+    allow-non-breakable-inline-mappings: false
+
+ignore:
+  - .venv
