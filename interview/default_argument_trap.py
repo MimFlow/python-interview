@@ -1,7 +1,7 @@
 """Default Argument Trap"""
 
 
-def add_item(item, items = None):
+def add_item(item, items=None):
     if items is None:
         items = []
     items.append(item)
